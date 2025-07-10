@@ -1,2 +1,3 @@
-Line One. 
-Newly Inserted Line Two
+Lin 1
+Lin 2
+Line 3
